@@ -29,3 +29,72 @@ Binding(COMMAND+SHIFT+T,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.ui 2 2 2020-05-19 15:26:15.246
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-19 15:26:23.872
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-19 15:26:23.873
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@2b826482[org.springframework.tooling.boot.ls:1.15.0.202001210741(id=625)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-19 15:26:23.875
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-19 15:26:23.908
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-19 15:26:24.745
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-19 15:26:24.746
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@2b826482[org.springframework.tooling.boot.ls:1.15.0.202001210741(id=625)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-19 15:26:24.746
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-19 15:26:26.967
+!MESSAGE Boot LS startup time from start to initialized: 2220ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-19 15:26:27.016
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.FGrMJppJisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-19 15:26:27.038
+!MESSAGE subscribing to classpath changes: sts4.classpath.FGrMJppJ isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-19 15:26:27.042
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-19 15:26:27.048
+!MESSAGE subsribers = {sts4.classpath.FGrMJppJ=Send Classpath Notifications(89)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-19 15:26:27.050
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-19 15:26:27.051
+!MESSAGE project Test ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-19 15:26:27.052
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-19 15:26:27.052
+!MESSAGE Preparing classpath changed notification Test
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-19 15:26:27.053
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.FGrMJppJ => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-19 15:26:27.054
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-19 15:26:27.058
+!MESSAGE classpath=18 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-19 15:26:27.059
+!MESSAGE buffering callback sts4.classpath.FGrMJppJ Test false 18
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-19 15:26:27.059
+!MESSAGE executing callback sts4.classpath.FGrMJppJ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-19 15:26:27.083
+!MESSAGE executing callback sts4.classpath.FGrMJppJ SUCCESS [done]
