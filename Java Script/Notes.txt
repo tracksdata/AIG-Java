@@ -58,6 +58,8 @@ client ( browser ) envi :
     c. IE/Edge => chakra
     d. Safari  => Nitro
 
+    jQuery (libracy) - DOM Uniformity
+
 
 other envi :
 --------------------------

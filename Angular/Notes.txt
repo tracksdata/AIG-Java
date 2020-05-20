@@ -1,0 +1,19 @@
+Angular
+------------
+
+Angukar JS (1x) is MVC based framework
+
+MVC - Model , View , Controller 
+
+Issues with Angular JS (1x)
+------------------------------
+1. Two-way data-binding - auto enabled by default
+2. Dependency Injection - needs aditional libraries to
+3. angular Scopes - maintaining context level data or global scope is difficult
+4. Directives - many directives has to be remembered and
+5. Its not component based architecture whiich is remembered by w3c.
+
+Angular 2x ( 2, 4, 5, 6, 7 ,8 ,9)
+---------------------------------
+
+
