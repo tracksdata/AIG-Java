@@ -98,3 +98,15 @@ Binding(COMMAND+SHIFT+T,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-19 15:26:27.083
 !MESSAGE executing callback sts4.classpath.FGrMJppJ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-19 17:03:31.397
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.FGrMJppJ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-19 17:03:31.400
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.FGrMJppJ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-19 17:03:31.402
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-19 17:03:31.413
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.FGrMJppJ => OK
