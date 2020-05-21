@@ -1,0 +1,95 @@
+Lab
+-------
+
+1. npm install -g @angular/cli
+2. ng new app1
+3. cd app1
+
+npm install bootstrap --save
+or
+yarn add bootstrap
+
+//----------------------------------
+
+
+
+
+
+
+    NG topics
+
+    ===============================================
+    1. component based UI archtecture
+
+    What is a Component?
+     - > any custom element  ex: <App></App> , <Products></Products>
+              <Product></Product>
+     -> Every component takes props
+              <Employee type="salalied"> </Employee>
+              <Store location="Hyderabad" type="goods"></Store>
+
+
+
+     what are  the adavanges of using component design?
+     -> every component must follow re-ualble principle
+
+
+    ===============================================
+
+    
+
+    ===============================================
+    2. data-binding
+    ===============================================
+
+    ------------------------------------------------
+        a. interpolation
+
+            in component's template ,
+
+            syntax :
+            
+               {{expression}}
+    ------------------------------------------------
+        b. property binding
+
+        syntax :
+            <element [property]="expression"/>
+
+    ------------------------------------------------
+        c. event binding    
+
+        syntax :
+            <element (event-name)="handler()" />
+
+    ------------------------------------------------
+
+     2 way binding
+         [(..)]
+
+
+
+    ===============================================
+    3. directives
+    ===============================================
+
+
+    ==> direction(s) for rendering UI
+
+
+    ------------------------------------------------
+    1. component directive   
+    
+        ==> directive with template
+    ------------------------------------------------
+    2. structural  directive   
+        ==> to change component's template structure
+
+        e.g
+
+            ngIf, ngFor ...
+    ------------------------------------------------
+     3. attribute directive
+
+        ==> to change element's properties/attributes       
+    ------------------------------------------------    
