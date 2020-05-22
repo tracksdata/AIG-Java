@@ -1,0 +1,29 @@
+Lab
+
+npx create-react-app App1
+
+ or
+
+yarn react-app App1
+
+ or
+ npm install -g create-react-app  
+ then
+ create-react-app App1
+
+ Topics
+
+ 1. Componet both class and function
+ 2. props and state
+ 3. inter component communication
+ 4. context component
+ 5. routers
+ 6. higher order components
+ 7. redux 
+ 8. hooks
+    
+
+
+
+
+ 
